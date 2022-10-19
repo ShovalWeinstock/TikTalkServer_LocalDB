@@ -2,9 +2,9 @@
 
 Authors:
 
-Shoval Weinstok 209540731
+Shoval Weinstok
 
-Itamar Shachen Tov 207497769
+Itamar Shachen Tov
 
 
 In order to run the project:
