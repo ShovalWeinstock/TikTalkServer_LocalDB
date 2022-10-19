@@ -11,7 +11,7 @@ In order to run the project:
 
 1. Open TikTalkServer -> run inner project webServerAPI:
    
-   https://github.com/itamar-st/TikTalkServer
+   https://github.com/ShovalWeinstock/TikTalkServer_LocalDB
    
    (The server is localhost:5051. it is hard coded in the client side)
    
