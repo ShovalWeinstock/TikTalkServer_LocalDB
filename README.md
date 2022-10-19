@@ -6,15 +6,8 @@ Shoval Weinstok 209540731
 
 Itamar Shachen Tov 207497769
 
-## TikTalk chat application
 
-<img width="960" alt="image" src="https://user-images.githubusercontent.com/92527489/196738619-f98bdc25-b2c3-4bd5-815c-1364b24d725d.png">
-
-<img width="715" alt="image" src="https://user-images.githubusercontent.com/92527489/196739090-ad33b540-6912-4a7c-8da4-8fbfbb07c30f.png">
-
-<img width="841" alt="image" src="https://user-images.githubusercontent.com/92527489/196739356-8616529c-0e02-4915-a9fb-9521fa853536.png">
-
-## In order to run the project:
+In order to run the project:
 
 1. Open TikTalkServer -> run inner project webServerAPI:
    
